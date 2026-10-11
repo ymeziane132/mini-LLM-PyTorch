@@ -1,0 +1,5 @@
+Le chat mange une pomme.
+Le chien joue dans le jardin.
+Le chat dort sur le canapé.
+Le chien mange une croquette.
+Le chat joue avec le chien.
